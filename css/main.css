@@ -1,0 +1,11 @@
+#localVideo {
+  position: relative;
+  z-index: 1;
+  height: 15vh;
+  max-width: 100%;
+}
+
+#remoteVideo {
+  position: relative;
+  max-width: 100%;
+}
